@@ -27,8 +27,9 @@ Analyzed passenger satisfaction drivers and built an interactive Tableau dashboa
 Python • SQL • Tableau  
 Analyzed revenue, inventory, supplier performance, manufacturing quality, and logistics costs.
 
-🎬 Movie Industry SQL Analysis  
-SQL project focused on revenue, ratings, and performance trends.
+## Learning Projects
+
+The repositories below document my learning journey in data analytics, including projects completed while developing skills in Python, SQL, data visualization, and exploratory data analysis.
 
 ## Languages
 - Spanish
