@@ -19,11 +19,16 @@ Mechanical Engineer with a background in engineering, auditing, and data analyti
 
 ## Featured Projects
 
-📊 Movie Industry Analytics: Revenue, Ratings, and Trends Using SQL
+✈️ Airline Passenger Satisfaction Analysis  
+Python • SQL • Tableau  
+Analyzed passenger satisfaction drivers and built an interactive Tableau dashboard.
 
-📈 Product Sales Analytics Using Python
+📦 Supply Chain Performance Analysis  
+Python • SQL • Tableau  
+Analyzed revenue, inventory, supplier performance, manufacturing quality, and logistics costs.
 
-⚽ UEFA Champions League Analytics
+🎬 Movie Industry SQL Analysis  
+SQL project focused on revenue, ratings, and performance trends.
 
 ## Languages
 - Spanish
