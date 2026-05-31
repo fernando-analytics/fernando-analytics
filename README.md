@@ -1,37 +1,69 @@
 # Hi, I'm Fernando 👋
 
-Mechanical Engineer with a background in engineering, auditing, and data analytics. I enjoy using data to solve problems, identify patterns, and generate actionable insights.
+Mechanical Engineer with a growing background in Data Analytics and a passion for turning data into actionable insights.
+
+Currently working as a Flight Attendant at American Airlines while developing my skills in Python, SQL, Tableau, and business analytics through hands-on projects.
+
+## About Me
+
+* 🎓 Bachelor's Degree in Mechanical Engineering
+* 📊 Google Data Analytics Certificate
+* 📚 CareerFoundry Data Analytics Program
+* ✈️ Flight Attendant at American Airlines
+* 🎯 Aspiring Data Analyst
+* 📍 Orlando, Florida
 
 ## Technical Skills
-- Python
-- SQL
-- Tableau
-- Data Cleaning
-- Exploratory Data Analysis (EDA)
-- Data Visualization
-- Statistical Analysis
-- Git/GitHub
 
-## Current Goals
-- Expand machine learning knowledge
-- Build data-driven projects
-- Pursue graduate studies in Analytics
+**Programming & Analytics**
+
+* Python
+* SQL
+* Pandas
+* Data Cleaning
+* Exploratory Data Analysis (EDA)
+
+**Data Visualization**
+
+* Tableau
+* Matplotlib
+* Dashboard Design
+* Data Storytelling
+
+**Tools**
+
+* Visual Studio
+* GitHub
+* Excel
+* Google Colab
 
 ## Featured Projects
 
-✈️ Airline Passenger Satisfaction Analysis  
-Python • SQL • Tableau  
-Analyzed passenger satisfaction drivers and built an interactive Tableau dashboard.
+### Airline Passenger Satisfaction Analysis
 
-📦 Supply Chain Performance Analysis  
-Python • SQL • Tableau  
-Analyzed revenue, inventory, supplier performance, manufacturing quality, and logistics costs.
+Analyzed airline passenger survey data to identify the key drivers of customer satisfaction using Python, SQL, and Tableau.
 
-## Learning Projects
+### Airline Loyalty Churn Analysis
 
-The repositories below document my learning journey in data analytics, including projects completed while developing skills in Python, SQL, data visualization, and exploratory data analysis.
+Explored customer retention patterns and churn drivers to support loyalty and retention strategies.
 
-## Languages
-- Spanish
-- English
-- Basque (Euskera)
+### Airline Booking Completion Analysis
+
+Investigated booking behavior and ancillary service selections to identify factors influencing reservation completion.
+
+### Supply Chain Performance Analysis
+
+Evaluated supplier performance, inventory levels, lead times, and logistics costs to support operational decision-making.
+
+## Current Goals
+
+* Strengthen my skills in data analytics and business intelligence.
+* Build a portfolio of real-world analytics projects.
+* Prepare for graduate studies in analytics.
+* Transition into a Data Analyst role.
+
+## Connect With Me
+
+📧 [fergonzalezrueda1@gmail.com]
+
+GitHub: https://github.com/fernando-analytics
